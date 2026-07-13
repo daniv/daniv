@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![GitHub Followers](https://img.shields.io/github/stars/daniv?style=social)
+![GitHub Followers](https://img.shields.io/github/stars/daniv/daniv?style=social)
